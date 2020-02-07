@@ -50,29 +50,29 @@ void draw()
     char c[4] = {'0', '0', '0', '0'};
     clear();
 
-    for(n=0; n < 9; n += 2)//绘制横线，n代表行，m代表列
+    for(n = 0; n < 9; n += 2)   //绘制横线，n代表行，m代表列
     {
-        for(m=0;m<21;m++)
+        for(m = 0; m < 21; m++)
         {
-            move(n,m);
+            move(n, m);
             addch('-');
             refresh();
         }
     }
-    for(m=0;m<22;m+=5)//绘制竖线
+    for(m = 0; m < 22; m += 5)  //绘制竖线
     {
-        for(n=1;n<8;n++)
+        for(n = 1; n < 8; n++)
         {
-            move(n,m);
-            addch('-');
+            move(n, m);
+            addch('|');
             refresh();
         }
     }
-    for(y=0;y<4;y++)//绘制数字
+    for(y = 0; y < 4; y++)     //绘制数字
     {
-        for(x=0;x<4;x++)
+        for(x = 0; x < 4; x++)
         {
-            draw_one(y,x);
+            draw_one(y, x);
         }
     }
 }
