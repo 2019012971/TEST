@@ -47,15 +47,17 @@ void initGame(void){
 void printfChessboard(){
     int i,j;
 
-    for(i=0;i<N;i++){
-        for(j=0;j<N;j++){
+    for(i=0;i<=N;i++){
+        for(j=0;j<=N;j++){
             if(i==0){
                 printf("%3d",j);//打印出列号
             }else if(j==0){
                 printf("%3d",i);//打印出行号
             }else if(chessboard[i][j]==1){
-                printf("  x");//windows下空格占两列
+                printf("  O");//windows下空格占两列
             }else if(chessboard[i][j]==2){
+                printf("  X");
+            }else{
                 printf("  *");
             }
         }
