@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581043955 source:/home/yuki/test_git/TEST/gomoku/main.c
+	<stdio.h>
+	<stdlib.h>
+
