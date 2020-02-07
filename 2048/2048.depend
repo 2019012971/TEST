@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581062991 source:/home/yuki/test_git/TEST/2048/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<unistd.h>
+	<signal.h>
+	<time.h>
+
