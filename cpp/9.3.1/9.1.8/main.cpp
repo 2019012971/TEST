@@ -10,9 +10,9 @@ int main()
 
     while(cin>>str)
         dstr.push_back(str);
-    for(auto i=dstr.begin();i!=dstr.end();i++)
+    for(auto iter=dstr.begin();iter!=dstr.end();iter++)
     {
-        cout<<*i<<" ";
+        cout<<*iter<<" ";
     }
     return 0;
 }
