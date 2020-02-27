@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582764969 source:/home/yuki/test_git/TEST/cpp/9.26/main.cpp
+	<iostream>
+	<vector>
+	<list>
+
