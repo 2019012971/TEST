@@ -1,0 +1,7 @@
+REGEDIT4
+¡¡
+
+[HKEY_CURRENT_USER£ÜSoftware£ÜMicrosoft£ÜWindows£ÜCurrentVersion£ÜPolicies£ÜSystem]
+¡¡
+¡°DisableTaskmgr¡±=dword:00000000.
+
