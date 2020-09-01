@@ -1,0 +1,53 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\addvspace {3ex}
+\addvspace {3ex}
+\contentsline {section}{\numberline {一、}综合训练目的与要求}{1}{section.1}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {二、}综合训练任务}{1}{section.2}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {三、}总体设计}{1}{section.3}%
+\contentsline {subsection}{\numberline {(1)}程序运行架构}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {(2)}代码文件组成}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {(3)}函数列表}{2}{subsection.3.3}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {四、}详细设计说明}{3}{section.4}%
+\contentsline {subsection}{\numberline {(1)}增加学生信息函数}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {(2)}输入学生信息函数}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {(3)}输出学生信息函数}{3}{subsection.4.3}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {五、}temp}{6}{section.5}%
+\contentsline {subsection}{\numberline {(1)}表格浮动体}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {(2)}插图标注}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {(3)}流程图}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {(4)}UML图}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {(5)}代码排版}{11}{subsection.5.5}%
+\contentsline {subsection}{\numberline {(6)}列表环境}{13}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {\Circled {1}}itemize环境}{13}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {\Circled {2}}enumerate环境}{13}{subsubsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {\Circled {3}}description环境}{13}{subsubsection.5.6.3}%
+\contentsline {subsection}{\numberline {(7)}\enquote {emph}强调字体}{13}{subsection.5.7}%
+\contentsline {subsection}{\numberline {(8)}文本框盒子}{14}{subsection.5.8}%
+\contentsline {subsubsection}{\numberline {\Circled {1}}\enquote {标题}文本框}{14}{subsubsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {\Circled {2}}\enquote {注意}文本框}{14}{subsubsection.5.8.2}%
+\contentsline {subsubsection}{\numberline {\Circled {3}}\enquote {重要}文本框}{14}{subsubsection.5.8.3}%
+\contentsline {subsubsection}{\numberline {\Circled {4}}\enquote {技巧}文本框}{14}{subsubsection.5.8.4}%
+\contentsline {subsubsection}{\numberline {\Circled {5}}\enquote {警告}文本框}{15}{subsubsection.5.8.5}%
+\contentsline {subsection}{\numberline {(9)}交叉引用}{15}{subsection.5.9}%
+\contentsline {subsection}{\numberline {(10)}参考文献}{15}{subsection.5.10}%
+\contentsline {subsection}{\numberline {(11)}已载入的宏包}{16}{subsection.5.11}%
+\contentsline {subsection}{\numberline {(12)}重要文件}{16}{subsection.5.12}%
+\contentsline {subsection}{\numberline {(13)}排版编译}{16}{subsection.5.13}%
+\contentsline {subsubsection}{\numberline {\Circled {1}}使用minted宏包排版代码}{17}{subsubsection.5.13.1}%
+\contentsline {subsubsection}{\numberline {\Circled {2}}使用listings宏包排版代码}{17}{subsubsection.5.13.2}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {六、}调试与测试}{17}{section.6}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {七、}实习日志}{17}{section.7}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {八、}实习总结}{19}{section.8}%
+\addvspace {3ex}
+\contentsline {section}{\numberline {九、}附录：核心代码清单}{19}{section.9}%
+\contentsline {subsection}{\numberline {(1)}代码排版环境}{19}{subsection.9.1}%
+\contentsline {subsection}{\numberline {(2)}代码排版命令}{20}{subsection.9.2}%
+\addvspace {3ex}
+\contentsfinish 
